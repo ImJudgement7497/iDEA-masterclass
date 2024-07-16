@@ -1,0 +1,63 @@
+python3: can't open file '/home/userfs/b/bmjm501/iDEA/pib_ud_500/pib_ud_500.py': [Errno 2] No such file or directory
+python3: can't open file '/home/userfs/b/bmjm501/iDEA/pib_ud_500/pib_ud_500.py': [Errno 2] No such file or directory
+Start state 0
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 0 done
+Run time for state 0 = 2498.875623595901 s
+Start state 1
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 1 done
+Run time for state 1 = 1478.9916005232371 s
+Start state 2
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 2 done
+Run time for state 2 = 6173.458344267681 s
+Start state 3
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 3 done
+Run time for state 3 = 10812.790343939792 s
+Start state 4
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 4 done
+Run time for state 4 = 15675.72287056921 s
+Start state 5
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 5 done
+Run time for state 5 = 17417.935372548178 s
+Start state 6
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 6 done
+Run time for state 6 = 13643.241636859253 s
+Start state 7
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 7 done
+Run time for state 7 = 9778.330180924851 s
+Start state 8
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 8 done
+Run time for state 8 = 8718.29799022479 s
+Start state 9
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 1.1258e-12, tolerance = 1e-10
+End state 9 done
+Run time for state 9 = 7264.036397786811 s
+Done

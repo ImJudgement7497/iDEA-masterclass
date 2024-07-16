@@ -1,0 +1,4 @@
+Run time for state 30 = 0.3221235279997927 s
+Run time for state 31 = 0.35459655100021337 s
+Run time for state 32 = 0.3099205640000946 s
+Total runtime: 0.9866406430001007 s

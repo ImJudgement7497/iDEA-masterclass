@@ -1,0 +1,11 @@
+Run time for state 0 = 2498.875623595901 s
+Run time for state 1 = 1478.9916005232371 s
+Run time for state 2 = 6173.458344267681 s
+Run time for state 3 = 10812.790343939792 s
+Run time for state 4 = 15675.72287056921 s
+Run time for state 5 = 17417.935372548178 s
+Run time for state 6 = 13643.241636859253 s
+Run time for state 7 = 9778.330180924851 s
+Run time for state 8 = 8718.29799022479 s
+Run time for state 9 = 7264.036397786811 s
+Total runtime: 93461.6803612397 s

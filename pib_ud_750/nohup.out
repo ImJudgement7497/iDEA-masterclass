@@ -1,0 +1,61 @@
+Start state 0
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 0 done
+Run time for state 0 = 54755.77486837981 s
+Start state 1
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 1 done
+Run time for state 1 = 27531.45800260082 s
+Start state 2
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 2 done
+Run time for state 2 = 12307.25684613688 s
+Start state 3
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 3 done
+Run time for state 3 = 6548.017124610022 s
+Start state 4
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 4 done
+Run time for state 4 = 12022.024291620124 s
+Start state 5
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 5 done
+Run time for state 5 = 11018.580550562125 s
+Start state 6
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 6 done
+Run time for state 6 = 9417.575079620816 s
+Start state 7
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 7 done
+Run time for state 7 = 7647.470460577402 s
+Start state 8
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 8 done
+Run time for state 8 = 6320.944294468034 s
+Start state 9
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.interacting.solve: solving eigenproblem...
+iDEA.methods.non_interacting.solve: convergence = 2.0, tolerance = 1e-10iDEA.methods.non_interacting.solve: convergence = 5.294e-12, tolerance = 1e-10
+End state 9 done
+Run time for state 9 = 3547.2489255880937 s
+Done
