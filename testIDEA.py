@@ -10,4 +10,4 @@ v_ext = np.zeros(x.shape)
 s = iDEA.system.System(x, v_ext, v_int, electrons="u")
 
 
-help(collections_iDEA.multiplets)
+help(collections_iDEA.analysis)
