@@ -1,13 +1,13 @@
 import numpy as np
 import iDEA
-from methods import compare_methods
+from methods_template import compare_methods
 
 
 # run variables
 
 points = 200
-start_num_of_states = 30
-end_num_of_states = 33
+start_num_of_states = 0
+end_num_of_states = 200
 
 # initalise the system
 
