@@ -18,7 +18,7 @@ print(f"Path of newly created directory: {absolute_path}")
 
 # Run variables
 points = 231
-start_num_of_states = 7
+start_num_of_states = 0
 end_num_of_states = 9
 
 # Initialize the system
@@ -27,7 +27,8 @@ x = np.linspace(-l, l, points)
 dx = x[1] - x[0]
 omega = 0.3275
 v_ext = 0.5 * omega**2 * (x**2)
-v_int = iDEA.interactions.softened_interaction(x, 1e-11)
+# v_int = iDEA.interactions.softened_interaction(x, 1e-11)
+v_int = np.zeros([len(x), len(x)])
 qho_single = iDEA.system.System(x, v_ext, v_int, electrons="u")
 qho_double = iDEA.system.System(x, v_ext, v_int, electrons="uu")
 
@@ -53,7 +54,7 @@ for i in range(start_num_of_states, end_num_of_states):
 
         # Methods using qho_double
         j = iDEA.methods.interacting.solve(qho_double, k=i)
-        state_file_name = f"qho_double_state_{i}_{points}_points.pkl"
+        state_file_name = f"qho__zero_double_state_{i}_{points}_points.pkl"
         filepath = os.path.join(states_dir, state_file_name)
         with open(filepath, "wb") as file:
             pickle.dump(j, file)
