@@ -1,0 +1,3 @@
+Run time for state 7 = 375.4898551219994 s
+Run time for state 8 = 335.63375977599935 s
+Total runtime: 711.1236148979988 s
