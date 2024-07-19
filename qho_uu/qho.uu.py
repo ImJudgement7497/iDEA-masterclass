@@ -17,9 +17,9 @@ absolute_path = os.path.abspath(states_dir)
 print(f"Path of newly created directory: {absolute_path}")
 
 # Run variables
-points = 231
+points = 350
 start_num_of_states = 0
-end_num_of_states = 9
+end_num_of_states = 6
 
 # Initialize the system
 l = 10
@@ -54,7 +54,7 @@ for i in range(start_num_of_states, end_num_of_states):
 
         # Methods using qho_double
         j = iDEA.methods.interacting.solve(qho_double, k=i)
-        state_file_name = f"qho__zero_double_state_{i}_{points}_points.pkl"
+        state_file_name = f"qho_zero_double_state_{i}_{points}_points.pkl"
         filepath = os.path.join(states_dir, state_file_name)
         with open(filepath, "wb") as file:
             pickle.dump(j, file)
