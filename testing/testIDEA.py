@@ -1,13 +1,7 @@
-import iDEA
-import numpy as np
-import sys
+
 import collections_iDEA
-
-x = np.linspace(0, 1, 100)
-v_int = np.zeros([len(x), len(x)])
-v_ext = np.zeros(x.shape)
-
-s = iDEA.system.System(x, v_ext, v_int, electrons="u")
+import numpy as np
+import iDEA
 
 # Initialize the system
 points = 231
@@ -24,5 +18,3 @@ def qho_energy(index):
 analytic_collection = collections_iDEA.multiplets.apply_energy_method(qho_energy, qho_double, 50)
 analytic_collection.calculate_multiplets()
 print(analytic_collection.multiplets)
-
-help(collections_iDEA.wavefunctions)
